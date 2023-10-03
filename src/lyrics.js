@@ -37,8 +37,6 @@ const getTrack = async (query) => {
   );
 
   const data = await response?.data;
-
-  console.log(data.tracks.items[0].artists);
   const track = data.tracks.items[0];
 
   return track;
