@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "axios": "^1.5.1",
+    "user-agent-array": "^2.0.1"
+  },
+  "name": "find-lyrics",
+  "version": "1.0.0",
+  "description": "Find lyrics from a query",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeblitz97/find-lyrics.git"
+  },
+  "keywords": [
+    "Lyrics",
+    "Music",
+    "NodeJS",
+    "Musixmatch",
+    "Spotify",
+    "Sync",
+    "Lyrics",
+    "RichSync",
+    "Translation",
+    "Snippets"
+  ],
+  "author": "Mohtasim Alam Sohom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeblitz97/find-lyrics/issues"
+  },
+  "homepage": "https://github.com/codeblitz97/find-lyrics#readme"
+}
